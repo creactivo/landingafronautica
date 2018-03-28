@@ -80,7 +80,7 @@ body {
 }
 
 .masthead .masthead-content h1 {
-  font-size: 1rem;
+  font-size: .1rem;
   text-align: center;
 }
 
@@ -133,7 +133,7 @@ body {
     padding-right: 10rem;
   }
   .masthead .masthead-content h1 {
-    font-size: 2.5rem;
+    font-size: 1.7rem;
     color: #06173f;
   }
   .masthead .masthead-content p {

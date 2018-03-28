@@ -24,7 +24,7 @@
   .masthead-content {
 
     h1 {
-      font-size: 1rem;
+      font-size: .1rem;
       text-align: center;
     }
     p {
@@ -67,11 +67,12 @@
     margin: 0 auto;
     display: block;
 }
+   
     .masthead-content {
       padding-left: 3rem;
       padding-right: 10rem;
       h1 {
-        font-size: 2.5rem;
+        font-size: 1.7rem;
         color: $blue-afro;
       }
       p {

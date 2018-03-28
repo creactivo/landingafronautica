@@ -35,7 +35,7 @@
   var DEFAULTS = {
     volume: 1,
     playbackRate: 1,
-    muted: true,
+    muted: false,
     loop: true,
     autoplay: true,
     position: '50% 50%',
